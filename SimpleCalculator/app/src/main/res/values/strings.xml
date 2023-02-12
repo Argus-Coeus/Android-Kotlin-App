@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="operation">Operation</string>
+    <string name="op">op</string>
+    <string name="c">C</string>
+    <string name="_2">2</string>
+    <string name="buttonMD">-/+S</string>
+    <string name="n9">/</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="s">-</string>
+    <string name="_4">4</string>
+    <string name="_7">7</string>
+    <string name="_3">3</string>
+    <string name="x">x</string>
+    <string name="P">%</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_5">5</string>
+    <string name="n0">+</string>
+    <string name="_0">0</string>
+    <string name="d">.</string>
+    <string name="E">=</string>
+    <string name="x1">*</string>
+    <string name="a1">-/+</string>
+    <string name="_71">7</string>
+    <string name="_81">8</string>
+    <string name="p1">%</string>
+    <string name="_91">9</string>
+    <string name="_51">5</string>
+    <string name="_61">6</string>
+    <string name="_31">3</string>
+    <string name="a2">+</string>
+    <string name="_11">1</string>
+    <string name="_01">0</string>
+    <string name="d1">.</string>
+    <string name="e1">=</string>
+    <string name="_21">2</string>
+    <string name="_41">4</string>
+    <string name="d11">/</string>
+    <string name="s1">-</string>
+    <string name="op1">op</string>
+    <string name="operation1">Operation</string>
+    <string name="c1">C</string>
+</resources>
